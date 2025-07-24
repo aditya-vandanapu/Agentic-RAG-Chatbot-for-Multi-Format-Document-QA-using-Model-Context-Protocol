@@ -64,9 +64,6 @@ flowchart TD
     B --> C[📚 RetrievalAgent<br>→ Retrieve Relevant Chunks]
     C --> D[🧠 LLMResponseAgent<br>→ Answer with GPT-3.5]
     D --> E[✅ Final Answer + Trace Logs (MCP)]
-yaml
-Copy
-Edit
 ```
 ---
 
