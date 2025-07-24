@@ -31,10 +31,13 @@ A modular AI chatbot to answer questions from uploaded documents using:
 ```bash
 pip install -r requirements.txt
 
-🔑 2. Setup .env file
-env
-Copy code
-OPENAI_API_KEY=your_openai_key_here
+### 🔑 2. Setup `.env` file
+
+Create a file named `.env` in the root directory of the project.  
+This file will store your environment variables such as API keys.
+
+Add the following line inside `.env` (replace `your_openai_key_here` with your actual OpenAI API key):
+
 
 ▶️ 3. Start Streamlit App
 bash
