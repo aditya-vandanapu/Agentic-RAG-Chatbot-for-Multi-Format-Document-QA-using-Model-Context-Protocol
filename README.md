@@ -30,10 +30,12 @@ A modular AI chatbot to answer questions from uploaded documents using:
 
 ```bash
 pip install -r requirements.txt
+
 🔑 2. Setup .env file
 env
 Copy code
 OPENAI_API_KEY=your_openai_key_here
+
 ▶️ 3. Start Streamlit App
 bash
 Copy code
@@ -46,8 +48,6 @@ flowchart TD
     B --> C[📚 RetrievalAgent<br>→ Retrieve Relevant Chunks]
     C --> D[🧠 LLMResponseAgent<br>→ Answer with GPT-3.5]
     D --> E[✅ Final Answer + Trace Logs (MCP)]
-📸 Screenshots
-Upload & Embed	Chat Response	Logs
 
 ⚙️ Tech Stack
 Python
