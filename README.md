@@ -89,7 +89,7 @@ Use async agents for performance
 
 Add chat history saving
 
-[![Watch the demo] https://drive.google.com/file/d/1qXjHp9lNQCcrAF-PuVv3r3uTxwTa-oEE/view?usp=sharing
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?logo=video)](https://drive.google.com/file/d/1qXjHp9lNQCcrAF-PuVv3r3uTxwTa-oEE/view?usp=sharing)
 
 👨‍💻 Author
 Aditya Vandanapu
